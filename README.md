@@ -194,18 +194,6 @@ Este site foi gerado a partir de:
 
 ---
 
-## 📞 Contato (info pública do site)
-
-- **Endereço**: Rua Bruno Hespanhol, 90 — Recreio Campestre Internacional Viracopos · Indaiatuba/SP
-- **Telefone**: (19) 3936-5800
-- **E-mail comercial**: vendas@macias.com.br
-- **WhatsApp Comercial**: (19) 99658-0476
-- **WhatsApp Atendimento**: (19) 99713-3850
-- **Loja online**: maciastecidos.com.br
-- **Instagram**: @maciastextil
-
----
-
 ## 📜 Histórico
 
 - **1945** — Fundação como Tecelagem Jacyra
